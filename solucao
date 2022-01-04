@@ -1,0 +1,27 @@
+##Receitas:
+#cadastrar receitas
+#editar receitas
+#remover receitas
+#listar receitas
+#   - filtro por período (dataInicial-dataFinal)
+#   - filtro por tipo de receita
+#listar total de receitas
+
+##Despesas:
+#cadas despesas
+#edit despesas
+#remov despesas
+#listar despesas
+#   - filtro por período (dataInicial-dataFinal)
+#   - filtro por tipo de despesa
+#listar total de despesas
+
+##Contas
+#cadast conta
+#edit conta
+#remov conta
+#list conta
+#transferir saldo entre contas
+#
+#
+#
