@@ -7,6 +7,13 @@
 #   - filtro por período (dataInicial-dataFinal)
 #   - filtro por tipo de receita
 #listar total de receitas
+####### RECEITAS DEVEM TER TAIS INFO:
+# - valor
+# - dataRecebimento
+# - dataRecebimentoEsperado
+# - descrição
+# - conta
+# - tipoReceita (salário, presente, prêmio, outros)
 
 ##Despesas:
 #cadas despesas
@@ -16,6 +23,12 @@
 #   - filtro por período (dataInicial-dataFinal)
 #   - filtro por tipo de despesa
 #listar total de despesas
+############ As despesas devem conter as seguintes informações:
+# - valor
+# - dataPagamento
+# - dataPagamentoEsperado
+# - tipoDespesa (alimentação, educação, lazer, moradia, roupa, saúde, transporte, outros)
+# - conta
 
 ##Contas
 #cadast conta
@@ -23,6 +36,9 @@
 #remov conta
 #list conta
 #transferir saldo entre contas
-#
-#
-#
+#list saldo total
+############# As contas devem conter as seguintes informações:
+ - saldo
+ - tipoConta (carteira, conta corrente, poupança)
+ - instituicaoFinanceira
+
